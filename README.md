@@ -1,7 +1,5 @@
 # Lời mở đầu
 
-## Tài liệu này là gì?
-
 {% hint style="info" %}
 Để các bạn tự mình tìm hiểu tài liệu này một cách nhanh nhất, chúng tôi sẽ cố gắng sử dụng giọng văn gần gũi và thoải mái nhất với một Developer :D
 {% endhint %}
